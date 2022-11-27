@@ -1,0 +1,63 @@
+.encabezado {
+    color: red;
+    font-style: italic;
+    font-size: x-large;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.informacion {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.galeria {
+    background-color: black;
+    color: white;
+}
+
+.campeonato_b {
+    width: 400px;
+    height: 400px;
+}
+
+.aniversario_52{
+    width: 400px;
+    height: 400px;
+}
+
+.hinchada{
+    width: 400px;
+    height: 400px;
+}
+
+.estrellas{
+    width: 1300px;
+    height: 400px;
+    
+}
+
+.logo_index{
+    position: relative;
+    left: 50%;
+    margin-left: -600px;
+    width: 1200px;
+    height: 500px;
+    align-self: center;
+}
+
+.titulo_sitio {
+    text-align: center;
+}
+
+.titulo_galeria {
+    text-align: center;
+}
+
+.copyright {
+    text-align: center;
+    background-color: white;
+    color: black;
+}
